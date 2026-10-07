@@ -5,6 +5,8 @@
 
 I build mobile apps and the platforms behind them, from government-grade secure apps to biometric workforce systems and AI-powered tools. Most of my work is for clients under NDA, so the source is private, but the apps are live. You can try them below.
 
+> 🔐 **Code available on request.** Source is private under client NDAs. I'm happy to walk through it in an interview or give temporary read-only access to a specific repo.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrshaan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrshaan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mshanportfolio-000?logo=vercel&logoColor=white)](https://mshanportfolio.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f8574f01b67fa2c4)
@@ -36,13 +38,31 @@ I build mobile apps and the platforms behind them, from government-grade secure 
 | **Women Safety App** | Emergency app for Punjab Police & PSCA | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.ppic3.womensafety) · [iOS](https://apps.apple.com/pk/app/punjab-police-women-safety-app/id1487787591) |
 | **Zindagi** | Anti-drug awareness app for PSCA | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.mnc.zindagi) · [iOS](https://apps.apple.com/pk/app/zindagi/id1488423934) |
 | **Lost & Found Persons** | Report lost or found persons for PSCA | Android | [Android](https://play.google.com/store/apps/details?id=com.psca.lostandfound) |
-| **My Fitness Compass** | Fitness app for West Coast Supplement (USA): HealthKit, subscriptions | Flutter | iOS & Android |
+| **My Fitness Compass** | Fitness app for West Coast Supplement (USA): HealthKit, subscriptions | Flutter | [Android](https://play.google.com/store/apps/details?id=com.myftinsess.compass) · [iOS](https://apps.apple.com/us/app/myfitnesscompass/id6677015552) |
+
+---
+
+## 📈 Activity (includes private work)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MShannn&hide_border=true&theme=default" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MShannn&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MShannn/MShannn/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MShannn/MShannn/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## 🧩 Other highlights
 - **AI trading copilot:** LangGraph agent on Amazon Bedrock that takes bets over SMS and hands off to human traders
 - **PhoneLock:** multi-tenant SaaS (NestJS, Prisma, PostgreSQL, Next.js PWA) with a Kotlin Device Owner app for remote device locking
 - **Computer vision:** YOLO card detection, TensorFlow face recognition
-
 
 ---
 
