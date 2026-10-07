@@ -49,10 +49,6 @@ I build mobile apps and the platforms behind them, from government-grade secure 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MShannn&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MShannn/MShannn/output/github-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/MShannn/MShannn/output/github-snake.svg" />
