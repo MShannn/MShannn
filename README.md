@@ -1,9 +1,9 @@
 # Hi, I'm Muhammad Shan 👋
 
-**Software Engineer @ TextBet · Senior Mobile Developer (Flutter · Android · iOS) · AI Agents, NestJS & Next.js**
-📍 London, UK · 10+ years shipping production apps
+**Senior Android Developer · Kotlin · Jetpack Compose · Flutter**
+📍 London, UK · Shipping secure, production mobile apps
 
-I build mobile apps and the platforms behind them, from government-grade secure apps to biometric workforce systems and AI-powered tools. Most of my work is for clients under NDA, so the source is private, but the apps are live. You can try them below.
+I build Android and Flutter apps used by the public, governments and businesses: police safety apps, biometric workforce systems (face, fingerprint, NFC) and subscription apps live on Google Play and the App Store. Most of my work is for clients under NDA, so the source is private, but the apps are live. You can try them below.
 
 > 🔐 **Code available on request.** Source is private under client NDAs. I'm happy to walk through it in an interview or give temporary read-only access to a specific repo.
 
@@ -16,13 +16,15 @@ I build mobile apps and the platforms behind them, from government-grade secure 
 
 ## 🛠 Tech stack
 
-**Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+**Android:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-**Backend & web:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**Cross-platform & iOS:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 
-**AI / ML:** ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?logo=amazonwebservices&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+**Delivery:** ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white) ![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)
 
-**Specialties:** biometrics (face, fingerprint), NFC, kiosk / device-owner mode, payments (Apple Pay, Google Pay, in-app purchases), HealthKit
+**Specialties:** Jetpack Compose, MVVM / clean architecture, Room, biometrics (face recognition with TensorFlow / ML Kit, fingerprint), NFC, kiosk / Device Owner mode, payments (Google Pay, Apple Pay, in-app purchases), HealthKit
+
+**Also worked with:** REST APIs · Node.js / NestJS · PostgreSQL · Next.js
 
 ---
 
@@ -56,9 +58,9 @@ I build mobile apps and the platforms behind them, from government-grade secure 
 </p>
 
 ## 🧩 Other highlights
-- **AI trading copilot:** LangGraph agent on Amazon Bedrock that takes bets over SMS and hands off to human traders
-- **PhoneLock:** multi-tenant SaaS (NestJS, Prisma, PostgreSQL, Next.js PWA) with a Kotlin Device Owner app for remote device locking
-- **Computer vision:** YOLO card detection, TensorFlow face recognition
+- **Biometric kiosks:** tablet attendance apps with face recognition, fingerprint scanners and NFC cards
+- **PhoneLock:** Kotlin Device Owner app that remotely locks financed phones and survives factory reset
+- **Computer vision on mobile:** YOLO card detection, TensorFlow face recognition
 
 ---
 
