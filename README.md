@@ -42,9 +42,3 @@ I build mobile apps and the platforms behind them, from government-grade secure 
 - **AI trading copilot:** LangGraph agent on Amazon Bedrock that takes bets over SMS and hands off to human traders
 - **PhoneLock:** multi-tenant SaaS (NestJS, Prisma, PostgreSQL, Next.js PWA) with a Kotlin Device Owner app for remote device locking
 - **Computer vision:** YOLO card detection, TensorFlow face recognition
-
----
-
-## 📊 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MShannn&show_icons=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShannn&layout=compact&hide_border=true)
