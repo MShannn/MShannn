@@ -22,7 +22,7 @@ I build Android and Flutter apps used by the public, governments and businesses:
 
 **Delivery:** ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white) ![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)
 
-**Specialties:** Jetpack Compose, MVVM / clean architecture, Room, biometrics (face recognition with TensorFlow / ML Kit, fingerprint), NFC, kiosk / Device Owner mode, payments (Google Pay, Apple Pay, in-app purchases), HealthKit
+**Specialties:** Jetpack Compose, Coroutines / Flow, Hilt, MVVM / clean architecture, Room, unit & UI testing (JUnit, Espresso), Agile / Scrum, biometrics (face recognition with TensorFlow / ML Kit, fingerprint), NFC, kiosk / Device Owner mode, payments (Google Pay, Apple Pay, in-app purchases), HealthKit
 
 **Also worked with:** REST APIs · Node.js / NestJS · PostgreSQL · Next.js
 
@@ -37,9 +37,9 @@ I build Android and Flutter apps used by the public, governments and businesses:
 | **Wellco Mobile** | White-label time registration for Wellco | Flutter | [Android](https://play.google.com/store/apps/details?id=com.appm.surfway) · [iOS](https://apps.apple.com/dk/app/wellco-mobile/id6504706255) |
 | **Time Clock App** | Kiosk attendance: face recognition, PIN, NFC | Android | [Android](https://play.google.com/store/apps/details?id=com.timetracking.surfway) |
 | **Surfface** | Face-recognition attendance (TensorFlow) | Android / Java | [Android](https://play.google.com/store/apps/details?id=com.surfface) |
-| **Women Safety App** | Emergency app for Punjab Police & PSCA | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.ppic3.womensafety) · [iOS](https://apps.apple.com/pk/app/punjab-police-women-safety-app/id1487787591) |
-| **Zindagi** | Anti-drug awareness app for PSCA | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.mnc.zindagi) · [iOS](https://apps.apple.com/pk/app/zindagi/id1488423934) |
-| **Lost & Found Persons** | Report lost or found persons for PSCA | Android | [Android](https://play.google.com/store/apps/details?id=com.psca.lostandfound) |
+| **Women Safety App** | Emergency app for Punjab Police & PSCA, **500K+ downloads** | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.ppic3.womensafety) · [iOS](https://apps.apple.com/pk/app/punjab-police-women-safety-app/id1487787591) |
+| **Zindagi** | Anti-drug awareness app for PSCA, **10K+ downloads** | Android / iOS | [Android](https://play.google.com/store/apps/details?id=com.psca.mnc.zindagi) · [iOS](https://apps.apple.com/pk/app/zindagi/id1488423934) |
+| **Lost & Found Persons** | Report lost or found persons for PSCA, **1K+ downloads** | Android | [Android](https://play.google.com/store/apps/details?id=com.psca.lostandfound) |
 | **My Fitness Compass** | Fitness app for West Coast Supplement (USA): HealthKit, subscriptions | Flutter | [Android](https://play.google.com/store/apps/details?id=com.myftinsess.compass) · [iOS](https://apps.apple.com/us/app/myfitnesscompass/id6677015552) |
 
 ---
@@ -78,11 +78,8 @@ I build Android and Flutter apps used by the public, governments and businesses:
 <details>
 <summary><b>🚓 Public safety & government (Punjab Safe Cities Authority)</b></summary>
 
-- **Women Safety App** (Punjab & KP Police), **Zindagi**, **Lost & Found Persons**, **PSCA Public Safety:** live on Play Store / App Store
-- **ANPR suite:** number-plate reader, alerts and tracking UI with location maps
-- **Crime analysis & 15 responder app**, **Punjab crime location map**, **Smart Policing MDT**
-- **Police, motorway and camera survey apps:** field data collection with maps
-- **Safety app for Chinese nationals**
+- **Women Safety App** (500K+ downloads, Punjab & KP Police), **Zindagi** (10K+), **Lost & Found Persons**, **PSCA Public Safety:** live on Play Store / App Store
+- **Field and survey apps** for public-safety teams, with maps and location
 </details>
 
 <details>
